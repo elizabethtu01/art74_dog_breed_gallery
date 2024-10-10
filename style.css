@@ -1,0 +1,47 @@
+/* General Page Styling */
+body {
+    line-height: 1.6;
+    margin: 20px;
+    padding: 0;
+    background-color: rgba(245, 242, 239, 0.678);
+}
+
+/* Center and style headings */
+h1 {
+    text-align: center;
+    color: seashell;
+    font-family: superclarendon;
+    background-color: rgba(255, 132, 0, 0.91);
+
+}
+
+h2 {
+    color: #555;
+}
+
+/* Link Styling */
+.breed-link {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+   height: 290px;
+   width: 350px;
+    color:rgba(255, 132, 0, 0.91);
+    font-family: 'Georgia', serif;
+    text-align: left;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.breed-link:hover {
+    background-color: #ddd3c3bf;
+}
+
+
+
+/* Simple list styling */
+ul {
+    margin: 20px 0;
+    padding-left: 20px;
+}
+
